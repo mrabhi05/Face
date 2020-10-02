@@ -38,5 +38,3 @@ while True:
 
 #Relaease the Webcam
 webcam.release()
-
-print("Code Completed")
